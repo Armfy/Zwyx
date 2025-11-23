@@ -218,35 +218,6 @@ swift test
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-<img src="https://via.placeholder.com/800x450/0a0a0a/00D9FF?text=Zwyx+Dashboard+Preview" alt="Dashboard" />
-
-<br/>
-
-<table>
-<tr>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/1a1a1a/A855F7?text=CPU+Monitor" alt="CPU" />
-<p align="center"><b>CPU Monitoring</b></p>
-</td>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/1a1a1a/00D9FF?text=Memory+Stats" alt="Memory" />
-<p align="center"><b>Memory Stats</b></p>
-</td>
-<td width="33%">
-<img src="https://via.placeholder.com/300x200/1a1a1a/F59E0B?text=GPU+Metrics" alt="GPU" />
-<p align="center"><b>GPU Metrics</b></p>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🎨 Why Zwyx?
 
 <div align="center">
@@ -316,18 +287,6 @@ See `LICENSE` file for more information.
 ![GitHub Forks](https://img.shields.io/github/forks/armfy/Zwyx?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/armfy/Zwyx?style=flat-square)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/armfy/Zwyx?style=flat-square)
-
-</div>
-
----
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-Special thanks to the **Swift** and **macOS** developer communities
-
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="200" />
 
 </div>
 
